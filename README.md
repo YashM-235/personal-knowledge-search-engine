@@ -6,7 +6,7 @@ A local-first personal knowledge search engine that lets you index your document
 
 The project combines document processing, local embeddings, persistent vector storage, semantic retrieval, and a local large language model in a Streamlit interface.
 
-## Application Screenshots
+## Application Images
 
 ### Main Application
 
