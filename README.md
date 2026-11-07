@@ -107,7 +107,7 @@ The project has been developed and tested in a Python virtual environment on Win
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/Yash-et/personal-knowledge-search-engine
+git clone https://github.com/YashM-235/personal-knowledge-search-engine
 cd personal-knowledge-search-engine
 ```
 
